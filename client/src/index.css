@@ -5,3 +5,7 @@ body {
   background-color: #ddd;
   color: #777;
 }
+
+a, a:hover, a:visited, a:active {
+  color: #1976d2
+}
